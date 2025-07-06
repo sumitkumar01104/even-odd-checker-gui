@@ -14,3 +14,5 @@ This is a simple Python GUI application built with Tkinter that checks whether a
 ```bash
 python even_odd_checker_gui.py
 ```
+## Author
+- [Sumit Nagar](https://github.com/sumitkumar01104)
